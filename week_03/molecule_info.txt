@@ -1,0 +1,3 @@
+Molecule: Hoveyda Grubbs II Catalyzer
+Image URL: https://github.com/octav19/ppchem/blob/main/grubbs2.png
+Description: In the Hoveyda–Grubbs catalysts, the benzylidene ligands have a chelating ortho-isopropoxy group attached to the benzene rings. 
